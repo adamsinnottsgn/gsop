@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gsop-dev-150512-authRole",
+      "UnauthRoleArn": "arn:aws:iam::471326005670:role/amplify-gsop-dev-150512-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::471326005670:role/amplify-gsop-dev-150512-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-gsop-dev-150512-deployment",
+      "UnauthRoleName": "amplify-gsop-dev-150512-unauthRole",
+      "StackName": "amplify-gsop-dev-150512",
+      "StackId": "arn:aws:cloudformation:eu-west-1:471326005670:stack/amplify-gsop-dev-150512/46c21910-12dd-11eb-9a43-02174fa64a32",
+      "AmplifyAppId": "d1x9wg1xh865wo"
+    }
+  }
+}
