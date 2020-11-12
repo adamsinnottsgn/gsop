@@ -3,23 +3,29 @@
 ## Installation
 
 ### Requirements
-Git-cli(cmder)
-Expo-cli@latest
-Node@latest
-npm@latest
+- Git-cli(cmder)
+- Expo-cli@latest
+- Node@latest
+- npm@latest
 
 ### Steps
 
-First clone the repo to your computer
+1. First clone the repo to your computer
+
     git clone https://github.com/adamsinnottsgn/gsop
 
-Then navigate to the repo and the sub gsop folder
+2. Copy manual-aws-exports.js and api-details.js to ./gsop/gsop/
+
+3. Then navigate to the repo and the sub gsop folder
+	
 	cd ./gsop/gsop/
 
-Assuming you have node installed, you will need to install the node package files
+4. Assuming you have node installed, you will need to install the node package files
+	
 	npm install
 
-Once you have the packages installed run Expo
+5. Once you have the packages installed run Expo
+	
 	expo start
 
-Then run expo on your device et voila.
+6. Then run expo app on your device et voila.
